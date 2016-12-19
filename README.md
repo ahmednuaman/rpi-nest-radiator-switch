@@ -13,3 +13,5 @@ access token simply follow these steps:
 5. Make the CURL request displayed here: https://developers.nest.com/documentation/cloud/sample-code-auth
 6. Copy and paste the response into `config.json` (it ought to look like 
 `{ "access_token": "xxx", "expires_in": 315360000 }`)
+7. Don't forget to set your `target_thermostat` too, this is the ID (key) under `devices > thermostats` object: 
+https://developers.nest.com/documentation/api-reference

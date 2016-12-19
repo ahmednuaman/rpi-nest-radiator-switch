@@ -1,1 +1,4 @@
-{ "access_token": "", "expires_in": 315360000 }
+{
+  "auth": { "access_token": "", "expires_in": 315360000 },
+  "target_thermostat": ""
+}
