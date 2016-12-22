@@ -9,7 +9,7 @@ You'll need:
 * GPIO connectors (I've used [female-to-female](http://www.ebay.co.uk/itm/40pcs-Dupont-Cables-FEMALE-TO-FEMALE-Jumper-GPIO-Wire-Ribbon-Breadboard-Arduino-/262202710636?hash=item3d0c7fda6c:g:v~gAAOSwuAVWzUtn))
 
 This is my hardware set up:
-![](https://dl.dropboxusercontent.com/content_link/tf4A10HbDayCUBlWzSCKEZuZdAooUnQrDOMCeiB8OXl2R0W4cuHHvz7TpolrYNhh/file)
+![](https://www.dropbox.com/s/mlqv38lcv16dwik/2016-12-22%2014.58.45.jpg?raw=1)
 
 I use PINs 12 (BCM 18), 1 (5V), and 14 (Ground) to connect to the relay (you're able to change this in the code). Here's a handy chart: https://pinout.xyz/
 
