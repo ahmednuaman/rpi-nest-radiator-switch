@@ -10,6 +10,7 @@ You'll need:
 
 This is my hardware set up:
 ![](https://www.dropbox.com/s/mlqv38lcv16dwik/2016-12-22%2014.58.45.jpg?raw=1)
+![](https://www.dropbox.com/s/5fvppdxnuyrpy65/image-20161223_134940.jpg?raw=1)
 
 I use PINs 12 (BCM 18), 1 (5V), and 14 (Ground) to connect to the relay (you're able to change this in the code). Here's a handy chart: https://pinout.xyz/
 
