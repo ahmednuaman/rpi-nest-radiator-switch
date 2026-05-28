@@ -28,7 +28,7 @@
   "homepage": "https://github.com/ahmednuaman/rpi-nest-radiator-switch#readme",
   "dependencies": {
     "core-js": "^3.6.5",
-    "firebase": "8.0.0",
+    "firebase": "12.13.0",
     "redux": "^4.0.5",
     "regenerator-runtime": "^0.13.7",
     "request": "^2.79.0",
